@@ -8,6 +8,9 @@
 
 // export default Profile
 
+
+
+//Example of nested routes/links
 import { useHistory, Link, Switch, Route, useRouteMatch } from "react-router-dom"
 import { useEffect } from 'react'
 import View from './View'
