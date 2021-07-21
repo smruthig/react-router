@@ -1,0 +1,27 @@
+.App {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav {
+    list-style: none;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: hsl(115, 68%, 37%);
+    color: white;
+    border-radius: 5px;
+    
+}
